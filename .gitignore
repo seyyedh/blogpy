@@ -2,6 +2,7 @@
 .DS_Store
 .idea/
 blogpy/__pycache__/
+blog/__pycache__/
 
 #virtualenv
 venv/
@@ -11,3 +12,9 @@ db.sqlite3
 
 #migrations
 blog/migrations/
+
+#Credentials
+.env
+
+#Static Files
+files/
