@@ -9,7 +9,6 @@ This project and video series are best practices for Backend Engineering with Py
 -   [Python 3.x](https://www.python.org/) - Programming Language
 -   [Django 2.2.x](https://www.djangoproject.com/) - Powerful Web Framework
 -   [Django Rest Framework](https://www.django-rest-framework.org/) - Web API's
--   [Jinja2](https://jinja.palletsprojects.com/en/2.11.x/) - Template Engine
 -   [Gunicorn](https://gunicorn.org/) - WSGI HTTP Server
 -   [PostgreSQL](https://www.postgresql.org/) - PostgreSQL Database
 -   [NginX](https://www.nginx.com/) - High performance web server
