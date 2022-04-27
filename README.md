@@ -1,13 +1,13 @@
 # Blogpy
 
-Blogpy is a simple blog application written by Python3 & Django2.2. This project is for educational purposes.
+Blogpy is a simple blog application written by Python3 & Django. This project is for educational purposes.
 
 
 ## Technologies used in this project
 
 This project is practice for Backend Engineering with Python and Django and the most common technologies. Technologies used in this project are listed below.
 -   [Python 3.x](https://www.python.org/) - Programming Language
--   [Django 2.2.x](https://www.djangoproject.com/) - Powerful Web Framework
+-   [Django](https://www.djangoproject.com/) - Powerful Web Framework
 -   [Django Rest Framework](https://www.django-rest-framework.org/) - Web API's
 -   [Gunicorn](https://gunicorn.org/) - WSGI HTTP Server
 -   [PostgreSQL](https://www.postgresql.org/) - PostgreSQL Database
